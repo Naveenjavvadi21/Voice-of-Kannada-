@@ -1,0 +1,21 @@
+{
+  "name": "voice-of-kannada",
+  "version": "1.0.0",
+  "description": "Voice of Kannada (ಕನ್ನಡದ ಧ್ವನಿ) - AI-powered voice-first spoken Kannada coach for newcomers and learners.",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "python run.py",
+    "start": "python run.py"
+  },
+  "keywords": [
+    "kannada",
+    "voice-ai",
+    "fastapi",
+    "react",
+    "vite",
+    "gemini"
+  ],
+  "author": "Naveenjavvadi21",
+  "license": "MIT"
+}

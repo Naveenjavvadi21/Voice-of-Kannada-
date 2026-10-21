@@ -7,7 +7,7 @@ import json
 import os
 from pathlib import Path
 from typing import List, Optional
-from fastapi import FastAPI, UploadFile, File, Form, HTTPException, Query
+from fastapi import FastAPI, APIRouter, UploadFile, File, Form, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
@@ -81,7 +81,11 @@ def get_cached_dialects() -> List[dict]:
     return _dialects_cache
 
 
-@app.get("/api/health")
+# Router definition (supports both /api/* and root /* on serverless platforms like Vercel)
+router = APIRouter()
+
+
+@router.get("/health")
 async def health_check():
     """Health check endpoint providing status of providers and API availability."""
     return {
@@ -96,7 +100,7 @@ async def health_check():
     }
 
 
-@app.post("/api/chat", response_model=ChatResponse)
+@router.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     """
     FR-1 & FR-2: Main voice practice and scenario dialogue endpoint.
@@ -114,7 +118,7 @@ async def chat_endpoint(request: ChatRequest):
     return response
 
 
-@app.post("/api/pronunciation", response_model=PronunciationResponse)
+@router.post("/pronunciation", response_model=PronunciationResponse)
 async def pronunciation_endpoint(request: PronunciationRequest):
     """
     FR-3: Compares recognized speech with target phrase, providing 0-100 score,
@@ -129,7 +133,7 @@ async def pronunciation_endpoint(request: PronunciationRequest):
     )
 
 
-@app.post("/api/transcribe", response_model=TranscribeResponse)
+@router.post("/transcribe", response_model=TranscribeResponse)
 async def transcribe_endpoint(
     audio: UploadFile = File(...),
     hint: Optional[str] = Form(None)
@@ -146,7 +150,7 @@ async def transcribe_endpoint(
     )
 
 
-@app.get("/api/scenarios")
+@router.get("/scenarios")
 async def get_scenarios():
     """
     FR-2: Returns the 6 guided role-play scenario missions.
@@ -155,7 +159,7 @@ async def get_scenarios():
     return {"scenarios": scenarios}
 
 
-@app.get("/api/phrases")
+@router.get("/phrases")
 async def get_phrases(category: Optional[str] = Query(None)):
     """
     FR-5: Returns 40+ survival phrases organized by category.
@@ -174,13 +178,18 @@ async def get_phrases(category: Optional[str] = Query(None)):
     }
 
 
-@app.get("/api/dialects")
+@router.get("/dialects")
 async def get_dialects():
     """
     FR-7: Returns regional dialect comparisons across Karnataka.
     """
     dialects = get_cached_dialects()
     return {"dialects": dialects}
+
+
+# Mount router under both /api and root / for seamless compatibility
+app.include_router(router, prefix="/api")
+app.include_router(router, prefix="")
 
 
 if __name__ == "__main__":

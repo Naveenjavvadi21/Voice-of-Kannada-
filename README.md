@@ -112,6 +112,24 @@ Open **`http://localhost:5173`** in Google Chrome or Chrome for Android!
 
 ---
 
+## 🌐 Deploy to Vercel (1-Click GitHub Integration)
+
+This repository is pre-configured with `vercel.json`, root `requirements.txt`, root `package.json`, and `api/index.py` serverless ASGI bridge.
+
+### Steps to Deploy:
+1. Log in to [Vercel](https://vercel.com/) and click **"Add New Project"** -> **"Project"**.
+2. Import your GitHub repository:  
+   `https://github.com/Naveenjavvadi21/Voice-of-Kannada-`
+3. Under **Build and Output Settings**, Vercel will automatically detect `vercel.json` and `Vite`.
+4. (Optional) Under **Environment Variables**, add:
+   - `GEMINI_API_KEY`: Your Gemini API Key
+   - `GEMINI_MODEL`: `gemini-flash-latest`
+5. Click **"Deploy"**!
+
+Your live web app will be instantly available on your custom `.vercel.app` domain with serverless backend APIs at `/api/*`.
+
+---
+
 ## ⚙️ Configuration (.env)
 
 Configuration is managed via `.env`. See `.env.example`:
