@@ -1,0 +1,16 @@
+{
+  "name": "Voice of Kannada (ಕನ್ನಡದ ಧ್ವನಿ)",
+  "short_name": "Kannada Voice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#9B111E",
+  "description": "Speak conversational Kannada with confidence. Voice tutor, missions, and pronunciation feedback.",
+  "icons": [
+    {
+      "src": "/kannada_icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

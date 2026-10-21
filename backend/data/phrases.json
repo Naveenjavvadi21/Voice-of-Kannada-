@@ -1,0 +1,322 @@
+[
+  {
+    "id": "p1",
+    "category": "Greetings",
+    "kannada_script": "ನಮಸ್ಕಾರ",
+    "transliteration": "Namaskara",
+    "english": "Hello / Greetings",
+    "context_note": "Universal greeting across all of Karnataka, fold hands for extra respect."
+  },
+  {
+    "id": "p2",
+    "category": "Greetings",
+    "kannada_script": "ಹೇಗಿದ್ದೀರಾ?",
+    "transliteration": "Hegiddeera?",
+    "english": "How are you? (Polite)",
+    "context_note": "Use with elders or respected persons. For friends, say 'Hegidiya?'."
+  },
+  {
+    "id": "p3",
+    "category": "Greetings",
+    "kannada_script": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+    "transliteration": "Naanu chennagiddene",
+    "english": "I am doing well",
+    "context_note": "Standard reply to 'Hegiddeera?'."
+  },
+  {
+    "id": "p4",
+    "category": "Greetings",
+    "kannada_script": "ಶುಭೋದಯ",
+    "transliteration": "Shubhodaya",
+    "english": "Good morning",
+    "context_note": "Formal morning greeting."
+  },
+  {
+    "id": "p5",
+    "category": "Greetings",
+    "kannada_script": "ಮತ್ತೆ ಸಿಗೋಣ",
+    "transliteration": "Matte sigona",
+    "english": "See you again",
+    "context_note": "Warm way to say goodbye."
+  },
+  {
+    "id": "p6",
+    "category": "Polite",
+    "kannada_script": "ಧನ್ಯವಾದಗಳು",
+    "transliteration": "Dhanyavaadagalu",
+    "english": "Thank you very much",
+    "context_note": "Notice the soft aspirated 'Dha' sound at the beginning."
+  },
+  {
+    "id": "p7",
+    "category": "Polite",
+    "kannada_script": "ದಯವಿಟ್ಟು",
+    "transliteration": "Dayavittu",
+    "english": "Please",
+    "context_note": "Use when asking for help or requesting an item."
+  },
+  {
+    "id": "p8",
+    "category": "Polite",
+    "kannada_script": "ಕ್ಷಮಿಸಿ",
+    "transliteration": "Kshamisi",
+    "english": "Excuse me / Sorry",
+    "context_note": "Use when apologizing or trying to get someone's attention politely."
+  },
+  {
+    "id": "p9",
+    "category": "Polite",
+    "kannada_script": "ಪರವಾಗಿಲ್ಲ",
+    "transliteration": "Paravaagilla",
+    "english": "No problem / It's alright",
+    "context_note": "Everyday reassuring response."
+  },
+  {
+    "id": "p10",
+    "category": "Commute",
+    "kannada_script": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+    "transliteration": "Illi nillisi",
+    "english": "Stop here please",
+    "context_note": "Essential for auto, cab, or bus drops."
+  },
+  {
+    "id": "p11",
+    "category": "Commute",
+    "kannada_script": "ಮೀಟರ್ ಹಾಕಿ ಅಣ್ಣ",
+    "transliteration": "Meter haaki anna",
+    "english": "Please turn on the meter, brother",
+    "context_note": "Bangalore auto staple phrase."
+  },
+  {
+    "id": "p12",
+    "category": "Commute",
+    "kannada_script": "ಎಷ್ಟು ಆಯ್ತು?",
+    "transliteration": "Eshtu aaythu?",
+    "english": "How much did it cost? / What is the fare?",
+    "context_note": "One of the most useful phrases in Karnataka."
+  },
+  {
+    "id": "p13",
+    "category": "Commute",
+    "kannada_script": "ಸೀದಾ ಹೋಗಿ",
+    "transliteration": "Seeda hogi",
+    "english": "Go straight ahead",
+    "context_note": "'Seeda' means straight."
+  },
+  {
+    "id": "p14",
+    "category": "Commute",
+    "kannada_script": "ಬಲಕ್ಕೆ ತಿರುಗಿ / ಎಡಕ್ಕೆ ತಿರುಗಿ",
+    "transliteration": "Balakke thirugi / Edakke thirugi",
+    "english": "Turn right / Turn left",
+    "context_note": "'Bala' is right, 'Eda' is left."
+  },
+  {
+    "id": "p15",
+    "category": "Commute",
+    "kannada_script": "ಮೆಟ್ರೋ ಸ್ಟೇಷನ್ ಎಲ್ಲಿದೆ?",
+    "transliteration": "Metro station ellide?",
+    "english": "Where is the metro station?",
+    "context_note": "'Ellide' means 'where is it?'."
+  },
+  {
+    "id": "p16",
+    "category": "Food",
+    "kannada_script": "ಊಟ ಆಯ್ತಾ?",
+    "transliteration": "Oota aaytha?",
+    "english": "Did you have food? / How are you?",
+    "context_note": "Quintessential Kannada greeting showing genuine care."
+  },
+  {
+    "id": "p17",
+    "category": "Food",
+    "kannada_script": "ಕುಡಿಯಲು ನೀರು ಕೊಡಿ",
+    "transliteration": "Kudiyalu neeru kodi",
+    "english": "Please give drinking water",
+    "context_note": "'Neeru' is water."
+  },
+  {
+    "id": "p18",
+    "category": "Food",
+    "kannada_script": "ಖಾರ ಕಡಿಮೆ ಮಾಡಿ",
+    "transliteration": "Khaara kadime maadi",
+    "english": "Make it less spicy please",
+    "context_note": "Vital when eating at Andhra or local South Indian diners."
+  },
+  {
+    "id": "p19",
+    "category": "Food",
+    "kannada_script": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ",
+    "transliteration": "Oota tumba ruchiyagide",
+    "english": "The food is very delicious",
+    "context_note": "Compliment your host or the chef with this."
+  },
+  {
+    "id": "p20",
+    "category": "Food",
+    "kannada_script": "ಒಂದು ಕಪ್ ಬಿಸಿ ಫಿಲ್ಟರ್ ಕಾಫಿ ಕೊಡಿ",
+    "transliteration": "Ondu cup bisi filter coffee kodi",
+    "english": "Give one cup of hot filter coffee",
+    "context_note": "Bengaluru darshini essential."
+  },
+  {
+    "id": "p21",
+    "category": "Food",
+    "kannada_script": "ಬಿಲ್ ಕೊಡಿ",
+    "transliteration": "Bill kodi",
+    "english": "Please bring the bill",
+    "context_note": "Polite end to your meal."
+  },
+  {
+    "id": "p22",
+    "category": "Shopping",
+    "kannada_script": "ಇದರ ಬೆಲೆ ಎಷ್ಟು?",
+    "transliteration": "Idara bele eshtu?",
+    "english": "What is the price of this?",
+    "context_note": "Can also be shortened to 'Idhu eshtu?'."
+  },
+  {
+    "id": "p23",
+    "category": "Shopping",
+    "kannada_script": "ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡಿ",
+    "transliteration": "Svalpa kammi maadi",
+    "english": "Please reduce the price a little",
+    "context_note": "Friendly bargaining phrase."
+  },
+  {
+    "id": "p24",
+    "category": "Shopping",
+    "kannada_script": "ಚಿಲ್ಲರೆ ಇದೆಯಾ?",
+    "transliteration": "Chillare ideya?",
+    "english": "Do you have loose change?",
+    "context_note": "'Chillare' means coins/small change."
+  },
+  {
+    "id": "p25",
+    "category": "Shopping",
+    "kannada_script": "ಆನ್‌ಲೈನ್ ಪೇಮೆಂಟ್ ಮಾಡ್ತೀನಿ",
+    "transliteration": "Online payment maadtini",
+    "english": "I will make online payment (UPI)",
+    "context_note": "Common at every street vendor in Karnataka."
+  },
+  {
+    "id": "p26",
+    "category": "Shopping",
+    "kannada_script": "ಒಂದು ಬ್ಯಾಗ್ ಕೊಡಿ",
+    "transliteration": "Ondu bag kodi",
+    "english": "Please give a bag",
+    "context_note": "Used in stores."
+  },
+  {
+    "id": "p27",
+    "category": "Emergencies",
+    "kannada_script": "ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ",
+    "transliteration": "Svalpa sahaaya maadi",
+    "english": "Please help me a little",
+    "context_note": "Polite plea when in need of guidance."
+  },
+  {
+    "id": "p28",
+    "category": "Emergencies",
+    "kannada_script": "ನನಗೆ ಹುಷಾರಿಲ್ಲ",
+    "transliteration": "Nanage hushaarilla",
+    "english": "I am feeling unwell",
+    "context_note": "'Hushaar' means alert/well, 'hushaarilla' is sick."
+  },
+  {
+    "id": "p29",
+    "category": "Emergencies",
+    "kannada_script": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+    "transliteration": "Hattirada aaspathre ellide?",
+    "english": "Where is the nearest hospital?",
+    "context_note": "Critical emergency phrase."
+  },
+  {
+    "id": "p30",
+    "category": "Emergencies",
+    "kannada_script": "ದಯವಿಟ್ಟು ಆಂಬುಲೆನ್ಸ್ ಕರೆಯಿರಿ",
+    "transliteration": "Dayavittu ambulance kareyiri",
+    "english": "Please call an ambulance",
+    "context_note": "Emergency medical dispatch."
+  },
+  {
+    "id": "p31",
+    "category": "Language Learning",
+    "kannada_script": "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ",
+    "transliteration": "Naanu kannada kaliyuttiddene",
+    "english": "I am learning Kannada",
+    "context_note": "Say this to locals and watch them smile warmly and encourage you!"
+  },
+  {
+    "id": "p32",
+    "category": "Language Learning",
+    "kannada_script": "ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+    "transliteration": "Nidhaanavaagi maathnaadi",
+    "english": "Please speak slowly",
+    "context_note": "Great when a native speaker is speaking too fast."
+  },
+  {
+    "id": "p33",
+    "category": "Language Learning",
+    "kannada_script": "ನನಗೆ ಅರ್ಥವಾಯಿತು",
+    "transliteration": "Nanage arthavaaythu",
+    "english": "I understood",
+    "context_note": "If you did not understand, say 'Nanage artha aaglilla'."
+  },
+  {
+    "id": "p34",
+    "category": "Language Learning",
+    "kannada_script": "ಇದಕ್ಕೆ ಕನ್ನಡದಲ್ಲಿ ಏನಂತಾರೆ?",
+    "transliteration": "Idakke kannadadalli enanthare?",
+    "english": "What is this called in Kannada?",
+    "context_note": "The best question to expand your everyday vocabulary."
+  },
+  {
+    "id": "p35",
+    "category": "Everyday Essentials",
+    "kannada_script": "ಹೌದು",
+    "transliteration": "Haudu",
+    "english": "Yes",
+    "context_note": "Standard affirmative."
+  },
+  {
+    "id": "p36",
+    "category": "Everyday Essentials",
+    "kannada_script": "ಇಲ್ಲ",
+    "transliteration": "Illa",
+    "english": "No / Not there",
+    "context_note": "Standard negative."
+  },
+  {
+    "id": "p37",
+    "category": "Everyday Essentials",
+    "kannada_script": "ಬೇಕು / ಬೇಡ",
+    "transliteration": "Beku / Beda",
+    "english": "Want / Do not want",
+    "context_note": "Fundamental pair: 'Beku' for I want, 'Beda' for no thanks."
+  },
+  {
+    "id": "p38",
+    "category": "Everyday Essentials",
+    "kannada_script": "ಗೊತ್ತು / ಗೊತ್ತಿಲ್ಲ",
+    "transliteration": "Gottu / Gottilla",
+    "english": "I know / I don't know",
+    "context_note": "Pair for familiarity: 'Kannada gottilla' vs 'Swalpa gottu'."
+  },
+  {
+    "id": "p39",
+    "category": "Everyday Essentials",
+    "kannada_script": "ಸರಿ, ಹಾಗೇ ಮಾಡೋಣ",
+    "transliteration": "Sari, haage maadona",
+    "english": "Okay, let's do that",
+    "context_note": "Agreement phrase."
+  },
+  {
+    "id": "p40",
+    "category": "Everyday Essentials",
+    "kannada_script": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು, ಶುಭ ದಿನ!",
+    "transliteration": "Tumba dhanyavaadagalu, shubha dina!",
+    "english": "Thank you very much, have a nice day!",
+    "context_note": "Pleasant and polite sign-off."
+  }
+]

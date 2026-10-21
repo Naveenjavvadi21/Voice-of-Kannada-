@@ -1,0 +1,288 @@
+[
+  {
+    "id": "auto_ride",
+    "title": "Hailing an Auto",
+    "kannada_title": "ಆಟೋ ಪ್ರಯಾಣ",
+    "category": "Commute",
+    "icon": "Car",
+    "description": "Negotiate a ride to Indiranagar, insist on meter, and pay with UPI.",
+    "goal": "Reach your destination by asking politely and ensuring meter billing.",
+    "partner_role": "Auto Driver (ಆಟೋ ಅಣ್ಣ)",
+    "target_turns": 4,
+    "badge_name": "Bengaluru Auto Champion",
+    "badge_icon": "🛺",
+    "starter_message": {
+      "kannada_script": "ನಮಸ್ಕಾರ ಸ್ವಾಮಿ! ಎಲ್ಲಿಗೆ ಹೋಗ್ಬೇಕು?",
+      "transliteration": "Namaskara swami! Ellige hogbeku?",
+      "english": "Hello sir! Where do you want to go?",
+      "correction": null,
+      "tip": "In Bengaluru, address auto drivers respectfully as 'Anna' (brother) or 'Swami'.",
+      "suggested_replies": [
+        {
+          "kannada": "ಇಂದಿರಾನಗರಕ್ಕೆ ಬರ್ತೀರಾ?",
+          "transliteration": "Indiranagarakke bartheera?",
+          "english": "Will you come to Indiranagar?"
+        },
+        {
+          "kannada": "ಎಂ.ಜಿ. ರೋಡ್‌ಗೆ ಹೋಗ್ಬೇಕು.",
+          "transliteration": "M.G. Road-ge hogbeku.",
+          "english": "I need to go to M.G. Road."
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ಮೀಟರ್ ಹಾಕಿ ಅಣ್ಣ",
+        "transliteration": "Meter haaki anna",
+        "english": "Please turn on the meter, brother"
+      },
+      {
+        "kannada": "ಎಷ್ಟು ಆಯ್ತು?",
+        "transliteration": "Eshtu aaythu?",
+        "english": "How much did it come to?"
+      },
+      {
+        "kannada": "ಗೂಗಲ್ ಪೇ ಇದೆಯಾ?",
+        "transliteration": "Google Pay ideya?",
+        "english": "Do you have Google Pay?"
+      }
+    ]
+  },
+  {
+    "id": "restaurant_dosa",
+    "title": "Dosa Camp Breakfast",
+    "kannada_title": "ತಿಂಡಿ ಹೋಟೆಲ್",
+    "category": "Food",
+    "icon": "Coffee",
+    "description": "Order crispy Masala Dosa, piping hot Filter Coffee, and ask for the bill.",
+    "goal": "Order a delicious Karnataka breakfast with special preferences.",
+    "partner_role": "Hotel Server (ಸರ್ವರ್)",
+    "target_turns": 3,
+    "badge_name": "Dosa Camp Connoisseur",
+    "badge_icon": "☕",
+    "starter_message": {
+      "kannada_script": "ಬನ್ನಿ ಸರ್! ತಿಂಡಿಗೆ ಏನು ತರಲಿ?",
+      "transliteration": "Banni sir! Thindige enu tharali?",
+      "english": "Welcome sir! What breakfast shall I bring?",
+      "correction": null,
+      "tip": "'Thindi' means snacks or breakfast in Kannada.",
+      "suggested_replies": [
+        {
+          "kannada": "ಒಂದು ಮಸಾಲೆ ದೋಸೆ ಕೊಡಿ",
+          "transliteration": "Ondu masala dose kodi",
+          "english": "Please give one Masala Dosa"
+        },
+        {
+          "kannada": "ಇವತ್ತು ಏನೇನು ಸ್ಪೆಷಲ್ ಇದೆ?",
+          "transliteration": "Ivattu enenu special ide?",
+          "english": "What specials are there today?"
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ಖಾರ ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ",
+        "transliteration": "Khaara svalpa kadime maadi",
+        "english": "Make it a bit less spicy"
+      },
+      {
+        "kannada": "ಒಂದು ಬಿಸಿ ಫಿಲ್ಟರ್ ಕಾಫಿ",
+        "transliteration": "Ondu bisi filter coffee",
+        "english": "One hot filter coffee"
+      },
+      {
+        "kannada": "ಬಿಲ್ ಕೊಡಿ",
+        "transliteration": "Bill kodi",
+        "english": "Please give the bill"
+      }
+    ]
+  },
+  {
+    "id": "market_vegetables",
+    "title": "Vegetable Market Bargain",
+    "kannada_title": "ತರಕಾರಿ ಮಾರುಕಟ್ಟೆ",
+    "category": "Shopping",
+    "icon": "ShoppingBag",
+    "description": "Buy fresh tomatoes and greens at Gandhi Bazaar, ask the price, and request coriander.",
+    "goal": "Buy vegetables like a true local and get complimentary coriander.",
+    "partner_role": "Vegetable Vendor (ತರಕಾರಿ ವ್ಯಾಪಾರಿ)",
+    "target_turns": 4,
+    "badge_name": "Market Bargainer",
+    "badge_icon": "🍅",
+    "starter_message": {
+      "kannada_script": "ನಮಸ್ಕಾರಮ್ಮ! ತಾಜಾ ನಾಟಿ ಟೊಮ್ಯಾಟೊ ಬಂದಿದೆ, ಎಷ್ಟು ಕೆಜಿ ಬೇಕು?",
+      "transliteration": "Namaskaramma! Taaja naati tomato bandide, eshtu kg beku?",
+      "english": "Hello! Fresh local tomatoes have arrived, how many kilos do you need?",
+      "correction": null,
+      "tip": "'Naati' means local/organic variety in Karnataka markets.",
+      "suggested_replies": [
+        {
+          "kannada": "ಒಂದು ಕೆಜಿ ಟೊಮ್ಯಾಟೊಗೆ ಎಷ್ಟು?",
+          "transliteration": "Ondu kg tomatoge eshtu?",
+          "english": "How much for one kilo of tomatoes?"
+        },
+        {
+          "kannada": "ಎರಡು ಕೆಜಿ ಕೊಡಿ",
+          "transliteration": "Eradu kg kodi",
+          "english": "Give two kilos"
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡಿ ಅಣ್ಣ",
+        "transliteration": "Svalpa kammi maadi anna",
+        "english": "Reduce the price slightly, brother"
+      },
+      {
+        "kannada": "ಸ್ವಲ್ಪ ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಹಾಕಿ",
+        "transliteration": "Svalpa kothambari soppu haaki",
+        "english": "Please add some coriander leaves"
+      }
+    ]
+  },
+  {
+    "id": "metro_directions",
+    "title": "Asking Directions to Metro",
+    "kannada_title": "ಮೆಟ್ರೋ ದಾರಿ ಕೇಳುವುದು",
+    "category": "Directions",
+    "icon": "Compass",
+    "description": "Find your way to the nearest Namma Metro station from a passerby.",
+    "goal": "Ask for directions and understand distance/left/right instructions.",
+    "partner_role": "Friendly Passerby (ಹಾದಿಹೋಕ)",
+    "target_turns": 3,
+    "badge_name": "City Navigator",
+    "badge_icon": "🚇",
+    "starter_message": {
+      "kannada_script": "ಹೇಳಿ, ಏನಾಗಬೇಕಿತ್ತು?",
+      "transliteration": "Heli, enaagabekittu?",
+      "english": "Tell me, how can I help you?",
+      "correction": null,
+      "tip": "'Heli' means 'tell me' or 'go ahead'.",
+      "suggested_replies": [
+        {
+          "kannada": "ಇಲ್ಲಿ ಹತ್ತಿರದ ಮೆಟ್ರೋ ಸ್ಟೇಷನ್ ಎಲ್ಲಿದೆ?",
+          "transliteration": "Illi hattirada metro station ellide?",
+          "english": "Where is the nearest metro station here?"
+        },
+        {
+          "kannada": "ನಡೆದುಕೊಂಡು ಹೋಗಬಹುದಾ?",
+          "transliteration": "Nadedukondu hogabahuda?",
+          "english": "Can I go by walking?"
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ಮುಂದೆ ಹೋಗಿ ಬಲಕ್ಕೆ ತಿರುಗಿ",
+        "transliteration": "Munde hogi balakke thirugi",
+        "english": "Go forward and turn right"
+      },
+      {
+        "kannada": "ತುಂಬಾ ದೂರ ಇದೆಯಾ?",
+        "transliteration": "Tumba doora ideya?",
+        "english": "Is it very far?"
+      }
+    ]
+  },
+  {
+    "id": "pharmacy_medicines",
+    "title": "At the Medical Store",
+    "kannada_title": "ಔಷಧಿ ಅಂಗಡಿ",
+    "category": "Health",
+    "icon": "HeartPulse",
+    "description": "Explain common symptoms (headache, fever) and ask for medicine instructions.",
+    "goal": "Describe your condition clearly and understand how to take the medicine.",
+    "partner_role": "Pharmacist (ಔಷಧ ತಜ್ಞ)",
+    "target_turns": 3,
+    "badge_name": "Health First",
+    "badge_icon": "💊",
+    "starter_message": {
+      "kannada_script": "ನಮಸ್ಕಾರ, ಏನು ಔಷಧಿ ಬೇಕಿತ್ತು?",
+      "transliteration": "Namaskara, enu aushadhi bekittu?",
+      "english": "Hello, what medicine do you require?",
+      "correction": null,
+      "tip": "'Aushadhi' means medicine in Kannada.",
+      "suggested_replies": [
+        {
+          "kannada": "ನನಗೆ ತಲೆನೋವು ಮತ್ತು ಜ್ವರ ಇದೆ",
+          "transliteration": "Nanage talenovu matthu jvara ide",
+          "english": "I have a headache and fever"
+        },
+        {
+          "kannada": "ನೆಗಡಿಗೆ ಒಳ್ಳೆಯ ಮಾತ್ರೆ ಕೊಡಿ",
+          "transliteration": "Negadige olleya maathre kodi",
+          "english": "Give good tablets for a cold"
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ಊಟದ ನಂತರ ತಗೋಬೇಕಾ?",
+        "transliteration": "Ootada nanthara thagobeka?",
+        "english": "Should I take it after meals?"
+      },
+      {
+        "kannada": "ದಿನಕ್ಕೆ ಎಷ್ಟು ಬಾರಿ?",
+        "transliteration": "Dinakke eshtu baari?",
+        "english": "How many times a day?"
+      }
+    ]
+  },
+  {
+    "id": "self_intro",
+    "title": "Friendly Self-Introduction",
+    "kannada_title": "ಸ್ವ ಪರಿಚಯ",
+    "category": "Social",
+    "icon": "UserCheck",
+    "description": "Introduce yourself to Kannada neighbors or colleagues and express your love for learning.",
+    "goal": "Share your name, hometown, and that you are happily learning Kannada.",
+    "partner_role": "Local Neighbor / Colleague (ಸ್ನೇಹಿತ)",
+    "target_turns": 3,
+    "badge_name": "Kannada Sneha Friend",
+    "badge_icon": "🤝",
+    "starter_message": {
+      "kannada_script": "ನಮಸ್ಕಾರ! ನಿಮ್ಮ ಹೆಸರು ಏನು?",
+      "transliteration": "Namaskara! Nimma hesaru enu?",
+      "english": "Hello! What is your name?",
+      "correction": null,
+      "tip": "Adding 'ri' at the end is a mark of polite affection across Karnataka.",
+      "suggested_replies": [
+        {
+          "kannada": "ನನ್ನ ಹೆಸರು ಅಲೆಕ್ಸ್, ನಾನು ಸಾಫ್ಟ್‌ವೇರ್ ಇಂಜಿನಿಯರ್",
+          "transliteration": "Nanna hesaru Alex, naanu software engineer",
+          "english": "My name is Alex, I am a software engineer"
+        },
+        {
+          "kannada": "ನಾನು ಹೊಸದಾಗಿ ಬೆಂಗಳೂರಿಗೆ ಬಂದಿದ್ದೇನೆ",
+          "transliteration": "Naanu hosadaagi Bengaloorige bandiddene",
+          "english": "I recently came to Bengaluru"
+        }
+      ],
+      "scenario_completed": false,
+      "turn_count": 0
+    },
+    "key_phrases": [
+      {
+        "kannada": "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ",
+        "transliteration": "Naanu kannada kaliyuttiddene",
+        "english": "I am learning Kannada"
+      },
+      {
+        "kannada": "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿದ್ದಕ್ಕೆ ತುಂಬಾ ಸಂತೋಷ",
+        "transliteration": "Nimmannu bhetiyagiddakke tumba santhosha",
+        "english": "Very happy to meet you"
+      }
+    ]
+  }
+]

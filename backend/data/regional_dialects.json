@@ -1,0 +1,258 @@
+[
+  {
+    "standard_phrase": "ಹೇಗಿದ್ದೀರಾ?",
+    "standard_transliteration": "Hegiddeera?",
+    "english": "How are you?",
+    "cultural_note": "Greeting styles differ noticeably across Karnataka's geographical zones.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಹೇಗಿದ್ದೀರಾ ಸರ್? ಏನ್ ಸಮಾಚಾರ?",
+        "phrase_transliteration": "Hegiddeera sir? En samachara?",
+        "note": "Fast-paced urban cadence, often paired with 'What's the news?'"
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಆರಾಮಾಗಿದ್ದೀರಾ ರೀ? ಕ್ಷೇಮವೇ?",
+        "phrase_transliteration": "Aramaagiddeera ree? Kshemave?",
+        "note": "Soft, musical cadence with the respectful suffix 'Ree'."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಆರಾಮ್ ಅದೀರೇನ್ರಿ? ಯನ್ನಡಸೇತಿ?",
+        "phrase_transliteration": "Aram adeerenri? Yennadseti?",
+        "note": "Vibrant, earthy dialect. 'Aram adeerenri' is the signature greeting."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಸುಖ ಇದ್ದೀರಾ ಮಾರಾಯ್ರೆ?",
+        "phrase_transliteration": "Sukha iddeera maraayre?",
+        "note": "Uses coastal honorifics like 'Maraayre' (my dear friend/gentleman)."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಎಷ್ಟು ಆಯ್ತು?",
+    "standard_transliteration": "Eshtu aaythu?",
+    "english": "How much is the cost?",
+    "cultural_note": "Essential when settling payments at markets and taxis.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಎಷ್ಟು ಆಯ್ತು ಬ್ರದರ್ / ಅಣ್ಣ?",
+        "phrase_transliteration": "Eshtu aaythu brother / anna?",
+        "note": "Casual blend of English and Kannada common in the IT capital."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಎಷ್ಟು ಆಯಿತು ಬುದ್ಧಿ?",
+        "phrase_transliteration": "Eshtu aayithu buddhi?",
+        "note": "'Buddhi' is a classic Mysuru deferential address."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಖರ್ಚಿಟ್ರ ಆತ್ರೀ? ಎಷ್ಟು ಕೊಡ್ಬೇಕು?",
+        "phrase_transliteration": "Kharchitra aathree? Esht kodbeku?",
+        "note": "Characteristic elision and rhythmic elongation on 'tree'."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಎಷ್ಟಾಂಡ್ ಮಾರ್‍ರೆ?",
+        "phrase_transliteration": "Eshtaand maarre?",
+        "note": "Distinct coastal Tulu-influenced Kannada phonetic merger."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಏನು ಮಾಡುತ್ತಿದ್ದೀರಿ?",
+    "standard_transliteration": "Enu maaduttiddeeri?",
+    "english": "What are you doing?",
+    "cultural_note": "A frequent check-in phrase with family and colleagues.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಏನ್ ಮಾಡ್ತಿದ್ದೀರಾ?",
+        "phrase_transliteration": "En maadtiddeera?",
+        "note": "Shortened verb form standard in city conversations."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಏನು ಮಾಡೋದು ಆಗ್ತಾ ಇದೆ?",
+        "phrase_transliteration": "Enu maadodu aagthaa ide?",
+        "note": "Indirect, gentle phrasing considered hallmark of Mysuru refinement."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಏನ್ ನಡೀತಿನ್ರಿ ನಿಮ್ಮದು?",
+        "phrase_transliteration": "En nadeethinri nimmadu?",
+        "note": "Meaning literally 'What is going on with you?'."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ದಾದ ಮಲ್ತೋಂಡು ಉಲ್ಲರ್ / ಏನ್ ಮಳ್ತೀರಾ?",
+        "phrase_transliteration": "Daada maltondu ullar / En malthira?",
+        "note": "Heavily shares vocabulary and rhythmic inflection with Tulu."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಊಟ ಆಯ್ತಾ?",
+    "standard_transliteration": "Oota aaytha?",
+    "english": "Did you eat? / Have you dined?",
+    "cultural_note": "The most heartfelt Kannada enquiry, spoken everywhere.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಊಟ ಆಯ್ತಾ ಬಾಸ್?",
+        "phrase_transliteration": "Oota aaytha boss?",
+        "note": "'Boss' is ubiquitously used across Bengaluru streets."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಊಟ ಉಪಹಾರವಾಯಿತೇ ರೀ?",
+        "phrase_transliteration": "Oota upahaaravaayithe ree?",
+        "note": "Formal compound 'Oota Upahara' indicating a complete meal."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಊಟ ಗೀಟ ಆತ್ಲೇನ್ರಿ? ರೊಟ್ಟಿ ತಿಂದ್ರಾ?",
+        "phrase_transliteration": "Oota geeta aathlenri? Rotti thindra?",
+        "note": "Often references the beloved staple 'Jolada Rotti' (jowar flatbread)."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಊಟ ಆತಾಯೇ?",
+        "phrase_transliteration": "Oota aathaye?",
+        "note": "Ends in the melodious rising inflection 'aye?'."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಇಲ್ಲಿ ಬನ್ನಿ",
+    "standard_transliteration": "Illi banni",
+    "english": "Come here (Polite)",
+    "cultural_note": "Used to beckon someone respectfully.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಸ್ವಲ್ಪ ಇಲ್ಲಿ ಬನ್ನಿ",
+        "phrase_transliteration": "Svalpa illi banni",
+        "note": "Adds 'Svalpa' (a little) to soften direct instructions."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ದಯಮಾಡಿ ಈ ಕಡೆ ಬನ್ನಿ",
+        "phrase_transliteration": "Dayamaadi ee kade banni",
+        "note": "'Dayamaadi' elevates politeness."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಹಿಂಗ ಬರೀಲ್ಲೇನ್ರಿ!",
+        "phrase_transliteration": "Hinga bareellenri!",
+        "note": "'Hinga baree' is iconic northern vernacular."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಇಡೆಗ್ ಬಲೆ ಮಾರೆರೆ",
+        "phrase_transliteration": "Ideg bale maarere",
+        "note": "Coastal Tuluva-Kannada blend."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಹೋಗಿ ಬರುತ್ತೇನೆ",
+    "standard_transliteration": "Hogi baruththene",
+    "english": "I will go and return (Goodbye)",
+    "cultural_note": "In Kannada culture, you never say 'I will go', you always say 'I will go and return'.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಬರ್ತೀನಿ ಬ್ರೋ / ಅಣ್ಣ, ಸಿಗೋಣ!",
+        "phrase_transliteration": "Barteeni bro / anna, sigona!",
+        "note": "Brisk and forward-looking."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಬರಲಾ ಬುದ್ಧಿ? ಅನುಮತಿ ಇರಲಿ",
+        "phrase_transliteration": "Baralaa buddhi? Anumathi irali",
+        "note": "Respectfully asking permission to take leave."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಬರ್ತೇನ್ರಿ ನಾ ಹೋಗಿ!",
+        "phrase_transliteration": "Barteenri naa hogi!",
+        "note": "Energetic and firm tone."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಬರ್ಪೆ ಮಾರಾಯ್ರೆ!",
+        "phrase_transliteration": "Barpe maraayre!",
+        "note": "Warm, musical sign-off."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ಎಲ್ಲಿ ಹೋಗುತ್ತಿದ್ದೀರಿ?",
+    "standard_transliteration": "Elli hoguttiddeeri?",
+    "english": "Where are you going?",
+    "cultural_note": "A common conversation starter when bumping into acquaintances.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಎಲ್ಲಿ ಹೊರಟಿದ್ದೀರಾ?",
+        "phrase_transliteration": "Elli horatiddeera?",
+        "note": "Uses 'horatiddeera' (heading out)."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಎಲ್ಲಿಗೆ ಪಯಣ ರೀ?",
+        "phrase_transliteration": "Ellige payana ree?",
+        "note": "Poetic use of 'payana' (journey)."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ಯತ್ತ ಕಡಿಕ ಹೊಂಟಿನ್ರಿ?",
+        "phrase_transliteration": "Yattha kadika hontinri?",
+        "note": "'Yattha kadika' means which direction."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಓಡೆಗ್ ಪೋಪಿನಿ?",
+        "phrase_transliteration": "Odeg popini?",
+        "note": "Coastal regional idiom."
+      }
+    ]
+  },
+  {
+    "standard_phrase": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು",
+    "standard_transliteration": "Tumba dhanyavaadagalu",
+    "english": "Thank you very much",
+    "cultural_note": "Gratitude expression.",
+    "variants": [
+      {
+        "region": "Bengaluru (Urban)",
+        "phrase_kannada": "ಥ್ಯಾಂಕ್ಸ್ ಅಣ್ಣ, ತುಂಬಾ ಹೆಲ್ಪ್ ಆಯ್ತು",
+        "phrase_transliteration": "Thanks anna, tumba help aaythu",
+        "note": "Natural mix of English thanks with heartfelt Kannada."
+      },
+      {
+        "region": "Mysuru (Heritage / Royal)",
+        "phrase_kannada": "ಕೃತಜ್ಞತೆಗಳು ಬುದ್ಧಿ",
+        "phrase_transliteration": "Kruthajnategalu buddhi",
+        "note": "Classical formal 'Kruthajnathe' (gratitude)."
+      },
+      {
+        "region": "Uttara Karnataka (Hubballi-Dharwad)",
+        "phrase_kannada": "ದೊಡ್ಡ ಉಪಕಾರ ಆಯ್ತ್ರಿ!",
+        "phrase_transliteration": "Dodda upakaara aaythree!",
+        "note": "Acknowledges the deed as a 'big favor'."
+      },
+      {
+        "region": "Karavali / Coastal (Mangaluru-Udupi)",
+        "phrase_kannada": "ಉಪಕಾರ ಮಲ್ತರ್ ಮಾರಾಯ್ರೆ!",
+        "phrase_transliteration": "Upakaara malthar maraayre!",
+        "note": "Grateful tone with coastal inflection."
+      }
+    ]
+  }
+]
